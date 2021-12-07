@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0497B88C276023E900275441 /* Validations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0497B88B276023E900275441 /* Validations.swift */; };
 		04FCBFFC275FCC4A00D6E33B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04FCBFFB275FCC4A00D6E33B /* AppDelegate.swift */; };
 		04FCBFFE275FCC4A00D6E33B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04FCBFFD275FCC4A00D6E33B /* SceneDelegate.swift */; };
 		04FCC000275FCC4A00D6E33B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04FCBFFF275FCC4A00D6E33B /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0497B88B276023E900275441 /* Validations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Validations.swift; sourceTree = "<group>"; };
 		04FCBFF8275FCC4A00D6E33B /* ValidationsStrings.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ValidationsStrings.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04FCBFFB275FCC4A00D6E33B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		04FCBFFD275FCC4A00D6E33B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				04FCBFFB275FCC4A00D6E33B /* AppDelegate.swift */,
 				04FCBFFD275FCC4A00D6E33B /* SceneDelegate.swift */,
 				04FCBFFF275FCC4A00D6E33B /* ViewController.swift */,
+				0497B88B276023E900275441 /* Validations.swift */,
 				04FCC001275FCC4A00D6E33B /* Main.storyboard */,
 				04FCC004275FCC4D00D6E33B /* Assets.xcassets */,
 				04FCC006275FCC4D00D6E33B /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				04FCC000275FCC4A00D6E33B /* ViewController.swift in Sources */,
 				04FCBFFC275FCC4A00D6E33B /* AppDelegate.swift in Sources */,
+				0497B88C276023E900275441 /* Validations.swift in Sources */,
 				04FCBFFE275FCC4A00D6E33B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
